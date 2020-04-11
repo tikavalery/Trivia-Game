@@ -1,9 +1,11 @@
 body {
-    background-image: url('../images/africabig.jpg');
+    background: url('../images/africamain.jpg') no-repeat center fixed;
     font-family: 'Anton', sans-serif;
     color: black;
     letter-spacing: 2px;
-    width: 100%;
+    background-size:cover;
+    background-repeat: no-repeat;
+
 }
 
 h1 {
